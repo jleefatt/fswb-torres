@@ -1,2 +1,11 @@
 .DS_Store
-node_modules/
+node_modules
+
+ch05/out/fonts/OpenSans-Bold-webfont.svg
+ch05/out/fonts/OpenSans-Bold-webfont.eot
+ch05/out/scripts/prettify/Apache-License-2.0.txt
+ch05/out/fonts/OpenSans-LightItalic-webfont.woff
+ch05/out/fonts/OpenSans-BoldItalic-webfont.svg
+ch05/out/fonts/OpenSans-Light-webfont.woff
+ch05/out/styles/jsdoc-default.css
+ch05/out/styles/prettify-jsdoc.css
